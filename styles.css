@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: rgb(7, 7, 29);
-    color: red;
+    color: rgb(209, 130, 27);
     padding: 20px;
     text-align: center;
         background-image: url("stars.png.png");
@@ -71,7 +71,7 @@ ol {
 }
 
 a:hover {
-    background: brown;
+    background: beige;
 }
 
 #three {
@@ -79,16 +79,4 @@ a:hover {
     border-radius: 50%;
 }
 
-.rules {
-    color: rgb(209, 130, 27);
-}
 
-button{
-    padding: 20px;
-    margin-left: 200px;
-    background-color: beige;
-}
-
-button:hover{
-    background-color: brown;
-}
